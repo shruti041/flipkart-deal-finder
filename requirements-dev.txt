@@ -1,0 +1,9 @@
+# Everything the app needs, plus the libraries used in the practice scripts
+# (retrieving_html.py, beautiful_soup.py, html_session.py, selenium_usecase.py).
+# Install locally with:  pip install -r requirements-dev.txt
+-r requirements.txt
+fake-useragent
+beautifulsoup4
+requests-html
+lxml_html_clean
+selenium
