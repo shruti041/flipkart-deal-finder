@@ -3,7 +3,7 @@
 A web-scraping + data-app project: I scraped **women's ethnic sets with 70%+ discount** from Flipkart
 and built an interactive **Streamlit** dashboard to browse and analyse the deals.
 
-**Live app:** _add your Streamlit Cloud link here_
+**Live app:**[ _add your Streamlit Cloud link here_](https://flipkart-deal-finder.streamlit.app/)
 
 ![App screenshot](screenshot.png)
 
